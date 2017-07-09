@@ -1,5 +1,5 @@
 # mta-api
-A Ruby wrapper of the NYC Metropolitan Transit Authority (MTA) Real-Time API.
+A Ruby wrapper of the NYC Metropolitan Transit Authority (MTA) [Real-Time API](http://web.mta.info/developers/developer-data-terms.html).
 
 This will query the XML API and return simple Ruby hashes.
 
